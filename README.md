@@ -14,6 +14,8 @@ dirsearch_gui
 
 除非您已充分阅读、完全理解并接受本协议所有条款，否则，请您不要安装并使用本工具。您的使用行为或者您以其他任何明示或者默示方式表示接受本协议的，即视为您已阅读并同意本协议的约束。
 
+
+
 ## 说明
 该文件是使用pyqt5写的
 
@@ -32,4 +34,9 @@ dirsearch_gui
 
 
 ![](https://s3.bmp.ovh/imgs/2022/07/01/68c1bdb5aa5db6a2.png)
+
+声明是借鉴：[lcvvvv/kscan](https://github.com/lcvvvv/kscan)
+
+dirsearch的官方仓库
+[dirsearch](https://github.com/maurosoria/dirsearch)
 
