@@ -7,6 +7,8 @@ dirsearch_gui
 
 把常用的勾勾勾就能调用dirsearch了
 
+是的，该工具只是勾勾勾然后写参数，调用cmd执行该命令而已
+
 需要先选择配置dirsearch文件以及python文件。
 
 选择一次后会自动保存在dirsearch_conf.ini里面
