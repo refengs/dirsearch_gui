@@ -31,8 +31,16 @@ dirsearch_gui
 
 同时，工具运行会debug文件debug_log.log。
 
+1.3更新日志：
+修改UI，可最大化，放大拉小等
+修复部分BUG
+
+1.3预览图如下
+
+![](https://i.bmp.ovh/imgs/2022/07/03/54870c73ef8bc7e5.png)
 
 
+以下是1.2的预览图
 ![](https://s3.bmp.ovh/imgs/2022/07/01/68c1bdb5aa5db6a2.png)
 
 声明是借鉴：[lcvvvv/kscan](https://github.com/lcvvvv/kscan)
