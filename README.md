@@ -29,7 +29,9 @@ dirsearch_gui
 
 选择一次后会自动保存在dirsearch_conf.ini里面
 
-同时，工具运行会debug文件debug_log.log。
+同时，工具运行会产生debug文件：debug_log.log。
+
+##更新日志和预览图
 
 1.3更新日志：
 修改UI，可最大化，放大拉小等
